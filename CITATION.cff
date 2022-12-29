@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digital Appendix: Investigating the
+  Generalizability of a Glassblowing Ontology
+message: >-
+  If you make use of these materials please cite them
+  as follows:
+type: dataset
+authors:
+  - given-names: Guoda
+    family-names: Paulauskaite
+    email: paulauskaite.guoda@gmail.com
+    affiliation: Vrije Universiteit Amsterdam
